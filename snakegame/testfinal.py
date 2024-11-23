@@ -1,5 +1,5 @@
 import pytest
-from csc11_galan_final import PlayerScore, HighScore
+from snakegame.snake_game import PlayerScore, HighScore
 
 
 def test_add_score():
